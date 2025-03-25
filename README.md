@@ -1,7 +1,7 @@
 # Phishing-url-prediction
 Develop an advanced machine learning model to classify URLs as either phishing or legitimate by analyzing features extracted from the URL structure, content, and metadata. This system aims to provide real-time detection of phishing attempts, enhancing cybersecurity by protecting users from malicious websites and online threats.
 
-# 📊 **Intermediate Phase Submission**
+#  **Intermediate Phase Submission**
 
 This document summarizes the steps completed in the **Intermediate Phase** of the **Phishing-url-prediction** project. The objective of this phase was to perform an initial **Exploratory Data Analysis (EDA)** to understand the structure and distribution of the dataset.
 
@@ -27,7 +27,7 @@ This document summarizes the steps completed in the **Intermediate Phase** of th
 
 ---
 
-## 📌 **Libraries Used:**
+##  **Libraries Used:**
 - **pandas**: For data manipulation and analysis.
 - **numpy**: For numerical calculations.
 - **matplotlib** and **seaborn**: For data visualization (histograms and box plots).
